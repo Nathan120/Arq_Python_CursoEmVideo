@@ -1,0 +1,6 @@
+tabela = ('Flamengo','Santos','Palmeiras','Gremio','Atletico Paranaense','São Paulo','Internacional','Corinthians','Fortaleza','Goias')
+print(tabela)
+print(tabela[:5])
+print(tabela[-4:])
+print(sorted(tabela))
+print('O time Palmeiras esta na {}º posição'.format(tabela.index('Palmeiras')+1))
