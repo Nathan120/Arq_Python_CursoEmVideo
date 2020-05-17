@@ -1,0 +1,13 @@
+linha = list()
+coluna = list()
+matrix = list()
+for i in range(1,4):
+    linha.append(int(input('linha: ')))
+    linha.append(int(input('linha: ')))
+    linha.append(int(input('linha: ')))
+    coluna.append(int(input('coluna: ')))
+    matrix.append(coluna[:])
+    matrix.append(linha[:])
+    linha.clear()
+    coluna.clear()
+print(matrix)
