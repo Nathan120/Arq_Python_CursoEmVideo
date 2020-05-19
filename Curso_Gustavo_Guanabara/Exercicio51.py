@@ -6,4 +6,3 @@ print(num, end= ' -> ')
     num += r
     print(num, end= ' -> ')
 print('Acabou')'''
-while 
