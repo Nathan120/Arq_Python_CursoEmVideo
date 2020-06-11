@@ -20,10 +20,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="862a2d89-656f-4d6b-b06a-0795ed6a320b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Curso_Gustavo_Guanabara/Exercicio94.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Curso_Gustavo_Guanabara/exercicio93.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curso_Gustavo_Guanabara/Exercicio100.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curso_Gustavo_Guanabara/Exercicio97.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curso_Gustavo_Guanabara/Exercicio98.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curso_Gustavo_Guanabara/Exercicio99.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curso_Gustavo_Guanabara/exercicio96.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicio100.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso_Gustavo_Guanabara/Exercicio92.py" beforeDir="false" afterPath="$PROJECT_DIR$/Curso_Gustavo_Guanabara/Exercicio92.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso_Gustavo_Guanabara/exercicio93.py" beforeDir="false" afterPath="$PROJECT_DIR$/Curso_Gustavo_Guanabara/exercicio93.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,10 +52,15 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Curso_Gustavo_Guanabara" />
   </component>
-  <component name="RunManager" selected="Python.exercicio93">
-    <configuration name="Exercicio92" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Projetos\Meuproj\Arq_Python_CursoEmVideo\Curso_Gustavo_Guanabara" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Exercicio100 (1)">
+    <configuration name="Exercicio100 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Arq_Python_CursoEmVideo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -63,7 +72,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Curso_Gustavo_Guanabara/Exercicio92.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Curso_Gustavo_Guanabara/Exercicio100.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -72,7 +81,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Exercicio94" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Exercicio100" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Arq_Python_CursoEmVideo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -80,11 +89,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Curso_Gustavo_Guanabara" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Curso_Gustavo_Guanabara/Exercicio94.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercicio100.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -93,7 +102,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="exercicio93" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Exercicio98" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Arq_Python_CursoEmVideo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -105,7 +114,49 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Curso_Gustavo_Guanabara/exercicio93.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Curso_Gustavo_Guanabara/Exercicio98.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Exercicio99 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Arq_Python_CursoEmVideo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Curso_Gustavo_Guanabara" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Curso_Gustavo_Guanabara/Exercicio99.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Exercicio99" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Arq_Python_CursoEmVideo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Curso_Gustavo_Guanabara" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="D:\Projetos\Meuproj\Arq_Python_CursoEmVideo\Curso_Gustavo_Guanabara\Exercicio99.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -116,9 +167,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.exercicio93" />
-        <item itemvalue="Python.Exercicio94" />
-        <item itemvalue="Python.Exercicio92" />
+        <item itemvalue="Python.Exercicio100 (1)" />
+        <item itemvalue="Python.Exercicio99 (1)" />
+        <item itemvalue="Python.Exercicio100" />
+        <item itemvalue="Python.Exercicio99" />
+        <item itemvalue="Python.Exercicio98" />
       </list>
     </recent_temporary>
   </component>
@@ -148,21 +201,21 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1345" height="543" key="GridCell.Tab.0.bottom" timestamp="1591483737459">
+    <state width="1345" height="569" key="GridCell.Tab.0.bottom" timestamp="1591911844505">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="543" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1591483737459" />
-    <state width="1345" height="543" key="GridCell.Tab.0.center" timestamp="1591483737459">
+    <state width="1345" height="569" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1591911844505" />
+    <state width="1345" height="569" key="GridCell.Tab.0.center" timestamp="1591911844505">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="543" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1591483737459" />
-    <state width="1345" height="543" key="GridCell.Tab.0.left" timestamp="1591483737459">
+    <state width="1345" height="569" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1591911844505" />
+    <state width="1345" height="569" key="GridCell.Tab.0.left" timestamp="1591911844505">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="543" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1591483737459" />
-    <state width="1345" height="543" key="GridCell.Tab.0.right" timestamp="1591483737459">
+    <state width="1345" height="569" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1591911844505" />
+    <state width="1345" height="569" key="GridCell.Tab.0.right" timestamp="1591911844505">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="543" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1591483737459" />
+    <state width="1345" height="569" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1591911844505" />
   </component>
 </project>

@@ -19,12 +19,26 @@ while True:
     op = str(input('Deseja continuar? [S/N] = '))
     if op in 'Nn':
         break
+
 print('-=' * 30)
-print('cod  nome        gols        total')
+print('cod  nome     gols    total')
+print('-' * 60)
 for p in todos:
     for v in p.values():
         print(f'{v}', end=' ')
     print()
+print('-' * 60)
+
+while True:
+    jogador = int(input('Digite o cod para ver o aproveitamento do jogador [999 p/ parar]: '))
+    if jogador == 999:
+        break
+    else:
+        print(f'  -- Levantamento do jogador {todos[jogador]["nome"]} :')
+        for p in todos[jogador]['gols']:
+                print(f'       Na partida {tot+1} fez {p} gols.')
+                tot += 1
+        tot = 0
 
 
 '''print('-=' * 30)
