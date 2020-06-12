@@ -19,15 +19,14 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="862a2d89-656f-4d6b-b06a-0795ed6a320b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Curso_Gustavo_Guanabara/Exercicio100.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Curso_Gustavo_Guanabara/Exercicio97.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Curso_Gustavo_Guanabara/Exercicio98.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Curso_Gustavo_Guanabara/Exercicio99.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Curso_Gustavo_Guanabara/exercicio96.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicio100.py" afterDir="false" />
+    <list default="true" id="862a2d89-656f-4d6b-b06a-0795ed6a320b" name="Default Changelist" comment="Novos arquivos">
+      <change afterPath="$PROJECT_DIR$/Curso_Gustavo_Guanabara/Exercicio101.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curso_Gustavo_Guanabara/Exercicio102.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curso_Gustavo_Guanabara/Exercicio103.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curso_Gustavo_Guanabara/Exercicio104.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curso_Gustavo_Guanabara/Exercicio105.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curso_Gustavo_Guanabara/Exercicio106.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso_Gustavo_Guanabara/exercicio93.py" beforeDir="false" afterPath="$PROJECT_DIR$/Curso_Gustavo_Guanabara/exercicio93.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,8 +58,8 @@
       <recent name="D:\Projetos\Meuproj\Arq_Python_CursoEmVideo\Curso_Gustavo_Guanabara" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Exercicio100 (1)">
-    <configuration name="Exercicio100 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Exercicio106">
+    <configuration name="Exercicio102" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Arq_Python_CursoEmVideo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -72,7 +71,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Curso_Gustavo_Guanabara/Exercicio100.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Curso_Gustavo_Guanabara/Exercicio102.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -81,28 +80,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Exercicio100" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Arq_Python_CursoEmVideo" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercicio100.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Exercicio98" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Exercicio103" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Arq_Python_CursoEmVideo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -114,7 +92,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Curso_Gustavo_Guanabara/Exercicio98.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Curso_Gustavo_Guanabara/Exercicio103.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -123,7 +101,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Exercicio99 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Exercicio104" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Arq_Python_CursoEmVideo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -135,7 +113,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Curso_Gustavo_Guanabara/Exercicio99.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Curso_Gustavo_Guanabara/Exercicio104.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -144,7 +122,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Exercicio99" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Exercicio105" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Arq_Python_CursoEmVideo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -156,7 +134,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\Projetos\Meuproj\Arq_Python_CursoEmVideo\Curso_Gustavo_Guanabara\Exercicio99.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Curso_Gustavo_Guanabara/Exercicio105.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Exercicio106" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Arq_Python_CursoEmVideo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Curso_Gustavo_Guanabara" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Curso_Gustavo_Guanabara/Exercicio106.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -167,11 +166,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Exercicio100 (1)" />
-        <item itemvalue="Python.Exercicio99 (1)" />
-        <item itemvalue="Python.Exercicio100" />
-        <item itemvalue="Python.Exercicio99" />
-        <item itemvalue="Python.Exercicio98" />
+        <item itemvalue="Python.Exercicio106" />
+        <item itemvalue="Python.Exercicio105" />
+        <item itemvalue="Python.Exercicio104" />
+        <item itemvalue="Python.Exercicio103" />
+        <item itemvalue="Python.Exercicio102" />
       </list>
     </recent_temporary>
   </component>
@@ -186,6 +185,14 @@
       <option name="presentableId" value="Default" />
       <updated>1591108462133</updated>
     </task>
+    <task id="LOCAL-00001" summary="Novos arquivos">
+      <created>1591911925499</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1591911925499</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -200,22 +207,30 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Novos arquivos" />
+    <option name="LAST_COMMIT_MESSAGE" value="Novos arquivos" />
+  </component>
   <component name="WindowStateProjectService">
-    <state width="1345" height="569" key="GridCell.Tab.0.bottom" timestamp="1591911844505">
+    <state width="1345" height="469" key="GridCell.Tab.0.bottom" timestamp="1591997017085">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="569" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1591911844505" />
-    <state width="1345" height="569" key="GridCell.Tab.0.center" timestamp="1591911844505">
+    <state width="1345" height="469" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1591997017085" />
+    <state width="1345" height="469" key="GridCell.Tab.0.center" timestamp="1591997017085">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="569" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1591911844505" />
-    <state width="1345" height="569" key="GridCell.Tab.0.left" timestamp="1591911844505">
+    <state width="1345" height="469" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1591997017085" />
+    <state width="1345" height="469" key="GridCell.Tab.0.left" timestamp="1591997017084">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="569" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1591911844505" />
-    <state width="1345" height="569" key="GridCell.Tab.0.right" timestamp="1591911844505">
+    <state width="1345" height="469" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1591997017084" />
+    <state width="1345" height="469" key="GridCell.Tab.0.right" timestamp="1591997017085">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="569" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1591911844505" />
+    <state width="1345" height="469" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1591997017085" />
+    <state x="492" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1591989198394">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="492" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1591989198394" />
   </component>
 </project>
