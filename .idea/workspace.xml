@@ -20,8 +20,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="862a2d89-656f-4d6b-b06a-0795ed6a320b" name="Default Changelist" comment="Novos arquivos">
-      <change afterPath="$PROJECT_DIR$/Modulos/Numeros.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulos/uteis.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +45,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Curso_Gustavo_Guanabara" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -208,10 +206,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="Novos arquivos" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="749" y="109" key="FileChooserDialogImpl" timestamp="1592676651898">
+    <state x="749" y="109" key="FileChooserDialogImpl" timestamp="1598276112547">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="749" y="109" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1592676651898" />
+    <state x="749" y="109" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1598276112547" />
     <state width="659" height="467" key="GridCell.Tab.0.bottom" timestamp="1592676667406">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
